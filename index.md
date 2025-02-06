@@ -9,6 +9,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var myVar = "Hello, world!";
 ```
 
-- [ ] Turn on Github Page
+- [x] Turn on Github Page
 - [ ] Outline my portfollo
 - [ ] Introdue myself to the world 
